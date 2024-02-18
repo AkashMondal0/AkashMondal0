@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">enjoy learning new things and technology. Stay tuned as I describe my experience in the computer and technology industries.</h3>
+<h1 align="center">Hi 👋, I'm Akash Mondal</h1>
+<h4 align="center">I'm very passionate about full-stack web development and DevOps. I have a strong command over both front-end and back-end technologies with 2+ years of experience.
+I like javascript. I enjoy learning new things and technology. Stay tuned as I describe my experience in the computer and technology industries.</h4>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashmondal0&show_icons=true&locale=en&layout=compact" alt="akashmondal0" /></p> -->
