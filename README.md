@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Mondal</h1>
-<h4>I am a passionate full-stack developer with a strong interest in DevOps. I have experience developing dynamic and
-    responsive web applications, with a special interest in JavaScript and its environment.</h4>
+<h4>I am a passionate full-stack developer with a strong interest in DevOps, dedicated to building dynamic, scalable, and high-performance web applications. With experience in designing and developing modern applications, I specialize in the JavaScript ecosystem, working with frameworks and technologies that drive seamless user experiences and efficient backend systems.</h4>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashmondal0&show_icons=true&locale=en&layout=compact" alt="akashmondal0" /></p> -->
